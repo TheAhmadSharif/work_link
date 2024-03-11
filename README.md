@@ -6,7 +6,7 @@ ML. R&D. Web
 
 
 
-## links
+## Links
 
 [H_W_Gender](https://github.com/TheAhmadSharif/ML_Lab/blob/main/KNN/H_W_Gender.ipynb)
 
